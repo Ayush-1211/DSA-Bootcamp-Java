@@ -1,0 +1,19 @@
+package dsa_bootcamp.assignment3;
+
+import java.util.Scanner;
+
+public class OddEven {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter number: ");
+        int n = sc.nextInt();
+        
+        System.out.println("Number is: " + oddEven(n));
+    }
+    static String oddEven(int n){
+        if(n%2==0){
+            return "Even";
+        }
+        return "Odd";
+    }
+}
