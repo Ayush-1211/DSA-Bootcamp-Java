@@ -5,3 +5,4 @@ Where to start?
     3. Functions
     4. Arrays
     5. Linear Search
+    6. Binary Search
