@@ -6,3 +6,5 @@ Where to start?
     4. Arrays
     5. Linear Search
     6. Binary Search
+    7. Sorting
+        - Bubble Sort
