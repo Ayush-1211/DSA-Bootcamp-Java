@@ -8,3 +8,5 @@ Where to start?
     6. Binary Search
     7. Sorting
         - Bubble Sort
+        - Selection Sort
+        - Insertion Sort
