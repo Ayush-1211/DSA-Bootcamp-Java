@@ -11,3 +11,4 @@ Where to start?
         - Selection Sort
         - Insertion Sort
         - Cyclic Sort
+    8. Strings
