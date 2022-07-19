@@ -12,3 +12,4 @@ Where to start?
         - Insertion Sort
         - Cyclic Sort
     8. Strings
+    9. Patterns
