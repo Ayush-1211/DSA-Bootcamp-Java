@@ -13,5 +13,6 @@ Where to start?
         - Cyclic Sort
     8. Strings
     9. Patterns
-   10. Introduction to Recursion
-   11. Time and Space Complexity
+    10. Introduction to Recursion
+    11. Time and Space Complexity
+    12. Bitwise Operators - Number System
