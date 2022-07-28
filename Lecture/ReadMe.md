@@ -19,3 +19,4 @@ Where to start?
     13. Maths
     14. Recursion Level - 1
     15. Recursion - Array
+    16. Recursion - Patterns
