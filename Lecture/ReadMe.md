@@ -22,3 +22,4 @@ Where to start?
     16. Recursion - Patterns
     17. Recursion - Sorting
         - Merge Sort
+        - Quick Sort
