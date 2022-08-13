@@ -42,3 +42,5 @@ Where to start?
         - Generics
         - Exception Handling
         - Object Cloning
+        - Collections
+        - Enum
