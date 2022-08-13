@@ -44,3 +44,4 @@ Where to start?
         - Object Cloning
         - Collections
         - Enum
+        - LinkedList
